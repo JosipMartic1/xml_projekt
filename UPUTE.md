@@ -12,3 +12,6 @@ upute xml projekt
 5. u trazilicu napisati http://localhost/xp_projekt_kviz_c/index.php (ili xp projekt kviz zamjenite s imenom foldera, ako vam folder ima drugo ime)
 
 6. testirati
+
+
+# objasnjenja php koda nalaze se u index.php, baza pitanja je questions.xml . xml schema se nalazi pod schema.xsd
