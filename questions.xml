@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<questions>
+
+    <question id="0">
+        <text>Test</text>
+        <answer correct="true">Tocno</answer>
+        <answer correct="false">Netocno</answer>
+        <answer correct="false">Netocno 2</answer>
+        <answer correct="false">Netocno 3</answer>
+    </question>
+
+    <question id="1">
+        <text>Koji je hrvatski ban ukinuo kmetstvo 1848. godine?</text>
+        <answer correct="true">Josip Jelačić</answer>
+        <answer correct="false">Ivan Mažuranić</answer>
+        <answer correct="false">Pavao Rauch</answer>
+        <answer correct="false">Károly Khuen-Héderváry</answer>
+    </question>
+
+    <question id="2">
+        <text>Koji je najveći otok u Hrvatskoj po površini?</text>
+        <answer correct="true">Cres</answer>
+        <answer correct="false">Brač</answer>
+        <answer correct="false">Krk</answer>
+        <answer correct="false">Hvar</answer>
+    </question>
+
+    <question id="3">
+        <text>Koje je godine Hrvatska postala članica Europske unije?</text>
+        <answer correct="true">2013.</answer>
+        <answer correct="false">2009.</answer>
+        <answer correct="false">2011.</answer>
+        <answer correct="false">2012.</answer>
+    </question>
+
+    <question id="4">
+        <text>Tko je napisao "Planine", prvo umjetničko djelo hrvatske renesanse?</text>
+        <answer correct="true">Petar Zoranić</answer>
+        <answer correct="false">Marko Marulić</answer>
+        <answer correct="false">Marin Držić</answer>
+        <answer correct="false">Juraj Šižgorić</answer>
+    </question>
+
+    <question id="5">
+        <text>Koliko Hrvatska ima županija (uključujući Grad Zagreb)?</text>
+        <answer correct="true">21</answer>
+        <answer correct="false">19</answer>
+        <answer correct="false">20</answer>
+        <answer correct="false">22</answer>
+    </question>
+    
+    <question id="6">
+        <text>Koji se natpis smatra najstarijim poznatim hrvatskim spomenikom na glagoljici?</text>
+        <answer correct="true">Bašćanska ploča</answer>
+        <answer correct="false">Plominski natpis</answer>
+        <answer correct="false">Valunska ploča</answer>
+        <answer correct="false">Krčki natpis</answer>
+    </question>
+
+    <question id="7">
+        <text>Tko je autor epa "Judita" iz 1501. godine?</text>
+        <answer correct="true">Marko Marulić</answer>
+        <answer correct="false">Petar Hektorović</answer>
+        <answer correct="false">Marin Držić</answer>
+        <answer correct="false">Ivan Gundulić</answer>
+    </question>
+
+    <question id="8">
+        <text>Koji hrvatski pjesnik je autor djela "Osman" ?</text>
+        <answer correct="true">Ivan Gundulić</answer>
+        <answer correct="false">Marko Marulić</answer>
+        <answer correct="false">Petar Zoranić</answer>
+        <answer correct="false">Marin Držić</answer>
+    </question>
+
+    <question id="9">
+        <text>Koji hrvatski znanstvenik je otkrio diskontinuitet u Zemljinoj kori koji nosi njegovo ime?</text>
+        <answer correct="true">Andrija Mohorovičić</answer>
+        <answer correct="false">Ruđer Bošković</answer>
+        <answer correct="false">Miroslav Radman</answer>
+        <answer correct="false">Ivan Supek</answer>
+    </question>
+
+    <question id="10">
+        <text>Koji je hrvatski pjesnik poznat kao "otac hrvatske književnosti" ?</text>
+        <answer correct="true">Marko Marulić</answer>
+        <answer correct="false">Petar Zoranić</answer>
+        <answer correct="false">Ivan Gundulić</answer>
+        <answer correct="false">Tin Ujević</answer>
+    </question>
+
+    <question id="11">
+        <text>Koji je najduži tunel u Hrvatskoj?</text>
+        <answer correct="true">Sveti Rok</answer>
+        <answer correct="false">Mala Kapela</answer>
+        <answer correct="false">Učka</answer>
+        <answer correct="false">Tuhobić</answer>
+    </question>
+
+    <question id="12">
+        <text>Koji hrvatski pisac je autor romana "Zlatarevo zlato" ?</text>
+        <answer correct="true">August Šenoa</answer>
+        <answer correct="false">Miroslav Krleža</answer>
+        <answer correct="false">Antun Gustav Matoš</answer>
+        <answer correct="false">Ivan Gundulić</answer>
+    </question>
+
+    <question id="13">
+        <text>Koji je hrvatski grad poznat kao "grad na četiri rijeke" ?</text>
+        <answer correct="true">Karlovac</answer>
+        <answer correct="false">Sisak</answer>
+        <answer correct="false">Osijek</answer>
+        <answer correct="false">Varaždin</answer>
+    </question>
+
+    <question id="14">
+        <text>Koji hrvatski nogometaš je bio najbolji strijelac Svjetskog prvenstva 1998.?</text>
+        <answer correct="true">Davor Šuker</answer>
+        <answer correct="false">Zvonimir Boban</answer>
+        <answer correct="false">Ivan Gudelj</answer>
+        <answer correct="false">Robert Prosinečki</answer>
+    </question>
+
+    <question id="15">
+        <text>Koji hrvatski trener je vodio nogometnu reprezentaciju na Svjetskom prvenstvu 2014.?</text>
+        <answer correct="true">Niko Kovač</answer>
+        <answer correct="false">Slaven Bilić</answer>
+        <answer correct="false">Igor Štimac</answer>
+        <answer correct="false">Zlatko Dalić</answer>
+    </question>
+
+    <question id="16">
+        <text>Koja je najjužnija točka Hrvatske?</text>
+        <answer correct="true">Rt Oštra</answer>
+        <answer correct="false">Prevlaka</answer>
+        <answer correct="false">Rt Kamenjak</answer>
+        <answer correct="false">Rt Lako</answer>
+    </question>
+
+    <question id="17">
+        <text>Koja je najsjevernija točka Hrvatske?</text>
+        <answer correct="true">Sveti Martin na Muri</answer>
+        <answer correct="false">Kopački rit</answer>
+        <answer correct="false">Čakovec</answer>
+        <answer correct="false">Varaždin</answer>
+    </question>
+
+    <question id="18">
+        <text>U kojem klubu je hrvatski nogometaš Ivan Gudelj proveo svoju seniorsku karijeru?</text>
+        <answer correct="true">Hajduk Split</answer>
+        <answer correct="false">Dinamo Zagreb</answer>
+        <answer correct="false">Partizan Beograd</answer>
+        <answer correct="false">Željezničar Sarajevo</answer>
+    </question>
+
+    <question id="19">
+        <text>U kojej se četvrti Zagreba nalazi zapadno spremište tramvaja poznato kao Remiza?</text>
+        <answer correct="true">Ljubljanica</answer>
+        <answer correct="false">Prečko</answer>
+        <answer correct="false">Dubrava</answer>
+        <answer correct="false">Rudeš</answer>
+    </question>
+
+    <question id="20">
+        <text>Spomenik kojem poznatom automobilskom brendu nalazi se u Imotskom?</text>
+        <answer correct="true">Mercedes-Benz</answer>
+        <answer correct="false">Zastava</answer>
+        <answer correct="false">Volkswagen</answer>
+        <answer correct="false">Fiat</answer>
+    </question>
+
+    <question id="21">
+        <text>Kako se u Hrvatskom zagorju zove alkoholno piće nastalo mješanjem gazirane vode i bijelog vina?</text>
+        <answer correct="true">Gemišt</answer>
+        <answer correct="false">Lozovača</answer>
+        <answer correct="false">Graševina</answer>
+        <answer correct="false">Mineralna voda</answer>
+    </question>
+
+    <question id="22">
+        <text>Kako se prezivaju bivši hrvatski nogometni reprezentativci, otac Zlatko i sin Niko.</text>
+        <answer correct="true">Kranjčar</answer>
+        <answer correct="false">Sigur</answer>
+        <answer correct="false">Ljubičić</answer>
+        <answer correct="false">Dalić</answer>
+    </question>
+
+    <question id="23">
+        <text>U kojem se hrvatskom nacionalnom parku nalaze slapovi Roški slap i Skradinski buk?</text>
+        <answer correct="true">Krka</answer>
+        <answer correct="false">Plitvička jezera</answer>
+        <answer correct="false">Paklenica</answer>
+        <answer correct="false">Risnjak</answer>
+    </question>
+
+    <question id="24">
+        <text>Koja je najveća stambena zgrada u Hrvatskoj po obujmu?</text>
+        <answer correct="true">Mamutica u Zagrebu</answer>
+        <answer correct="false">Krstarica u Splitu</answer>
+        <answer correct="false">Super Andrija u Zagrebu</answer>
+        <answer correct="false">Trešnjevačka ljepotica u Zagrebu</answer>
+    </question>
+
+    <question id="25">
+        <text>Po kojem prijevoznom sredstvu nadimak nosi najveći stambeni kompleks u zagrebačkoj četvrti Vrbik?</text>
+        <answer correct="true">Rakete</answer>
+        <answer correct="false">Avioni</answer>
+        <answer correct="false">Brodovi</answer>
+        <answer correct="false">Lokomotive</answer>
+    </question>
+
+    <question id="26">
+        <text>Koji je hrvatski boksač poznat pod nadimkom "Šaka sa Srednjaka" ?</text>
+        <answer correct="true">Željko Mavrović</answer>
+        <answer correct="false">Mate Parlov</answer>
+        <answer correct="false">Filip Hrgović</answer>
+        <answer correct="false">Stipe Drviš</answer>
+    </question>
+
+    <question id="27">
+        <text>Koji golman ima najviše nastupa za Hrvatsku nogometnu reprezentaciju?</text>
+        <answer correct="true">Stipe Pletikosa</answer>
+        <answer correct="false">Dominik Livaković</answer>
+        <answer correct="false">Danijel Subašić</answer>
+        <answer correct="false">Dražen Ladić</answer>
+    </question>
+
+    <question id="28">
+        <text>Koji je hrvatski košarkaš osvojio tri uzastopna NBA naslova?</text>
+        <answer correct="true">Toni Kukoč</answer>
+        <answer correct="false">Dražen Petrović</answer>
+        <answer correct="false">Bojan Bogdanović</answer>
+        <answer correct="false">Ivica Zubac</answer>
+    </question>
+
+    <question id="29">
+        <text>Po kojoj osobi tehnički muzej u Zagrebu nosi ime?</text>
+        <answer correct="true">Nikola Tesla</answer>
+        <answer correct="false">Ruđer Bošković</answer>
+        <answer correct="false">Marin Ivanović</answer>
+        <answer correct="false">Slavoljub Penkala</answer>
+    </question>
+
+    <question id="30">
+        <text>Koje godine je Hrvatska osvojila drugo mjesto na Svjetskom nogometnom prvenstvu?</text>
+        <answer correct="true">2018.</answer>
+        <answer correct="false">1998.</answer>
+        <answer correct="false">2022.</answer>
+        <answer correct="false">2006.</answer>
+    </question>
+
+    <question id="31">
+        <text>Koji hrvatski nogometaš ima najviše nastupa za reprezentaciju?</text>
+        <answer correct="true">Luka Modrić</answer>
+        <answer correct="false">Davor Šuker</answer>
+        <answer correct="false">Darijo Srna</answer>
+        <answer correct="false">Ivan Perišić</answer>
+    </question>
+
+    <question id="32">
+        <text>Koji klub je osvojio Prvu hrvatsku nogometnu ligu u sezoni 2016./2017.?</text>
+        <answer correct="true">Rijeka</answer>
+        <answer correct="false">Dinamo Zagreb</answer>
+        <answer correct="false">Hajduk Split</answer>
+        <answer correct="false">NK Zagreb</answer>
+    </question>
+
+    <question id="33">
+        <text>Koji klub je osvojio Prvu hrvatsku nogometnu ligu u sezoni 2024./2025.?</text>
+        <answer correct="true">HNK Rijeka</answer>
+        <answer correct="false">Dinamo Zagreb</answer>
+        <answer correct="false">Hajduk Split</answer>
+        <answer correct="false">NK Osijek</answer>
+    </question>
+
+    <question id="34">
+        <text>Koji je igrač imao najviše postignutih pogodaka sezone 2024./2025. u Prvoj hrvatskoj nogometnoj ligi?</text>
+        <answer correct="true">Marko Livaja</answer>
+        <answer correct="false">Bruno Petković</answer>
+        <answer correct="false">Sandro Kulenović</answer>
+        <answer correct="false">Robert Mudražija</answer>
+    </question>
+
+    <question id="35">
+        <text>Koja rijeka teče kroz Metković?</text>
+        <answer correct="true">Neretva</answer>
+        <answer correct="false">Cetina</answer>
+        <answer correct="false">Krka</answer>
+        <answer correct="false">Kupa</answer>
+    </question>
+
+    <question id="36">
+        <text>Od koliko kaštela se sastoji grad Kaštela?</text>
+        <answer correct="true">7</answer>
+        <answer correct="false">6</answer>
+        <answer correct="false">8</answer>
+        <answer correct="false">5</answer>
+    </question>
+
+    <question id="37">
+        <text>Koji nogometaš ima najviše nastupa za zagrebački Dinamo?</text>
+        <answer correct="true">Dražen Ladić</answer>
+        <answer correct="false">Arijan Ademi</answer>
+        <answer correct="false">Igor Cvitanović</answer>
+        <answer correct="false">Zlatko Kranjčar</answer>
+    </question>
+
+    <question id="38">
+        <text>Kako se zove antičko naselje u blizini Metkovića</text>
+        <answer correct="true">Narona</answer>
+        <answer correct="false">Andautonia</answer>
+        <answer correct="false">Salona</answer>
+        <answer correct="false">Delmata</answer>
+    </question>
+
+    <question id="39">
+        <text>Koja zagrebačka četvrt, prema nekima, nosi titulu republike?</text>
+        <answer correct="true">Pešćenica</answer>
+        <answer correct="false">Dubrava</answer>
+        <answer correct="false">Ferenšćica</answer>
+        <answer correct="false">Volovčica</answer>
+    </question>
+
+    <question id="40">
+        <text>Koja planina se naziva kolijevkom hrvatskog planinarstva?</text>
+        <answer correct="true">Klek</answer>
+        <answer correct="false">Bjelolasica</answer>
+        <answer correct="false">Petrova gora</answer>
+        <answer correct="false">Učka</answer>
+    </question>
+
+    <question id="41">
+        <text>Kip kojega hrvatskog vladara se nalazi nasuprot Glavnog željezničkog kolodvora u Zagrebu</text>
+        <answer correct="true">Kralja Tomislav</answer>
+        <answer correct="false">Kralja Petar Krešimir IV.</answer>
+        <answer correct="false">Kralja Dmitar Zvonimir</answer>
+        <answer correct="false">Kneza Višeslav</answer>
+    </question>
+
+    <question id="42">
+        <text>Tko je bio zadnji vladar Hrvatske prije personalne unije s Ugarskom?</text>
+        <answer correct="true">Petar Svačić</answer>
+        <answer correct="false">Ljudevit Posavski</answer>
+        <answer correct="false">Bela IV.</answer>
+        <answer correct="false">Stjepan II.</answer>
+    </question>
+
+    <question id="43">
+        <text>Tko je bio posljednji Trpimirović koji je vladao Hrvatskom prije personalne unije s Ugarskom?</text>
+        <answer correct="true">Stjepan II.</answer>
+        <answer correct="false">Ljudevit Posavski</answer>
+        <answer correct="false">Dmitar Zvonimir</answer>
+        <answer correct="false">Krešimir III.</answer>
+    </question>
+
+    <question id="44">
+        <text>Kojim ugovorom je Hrvatska sklopila personalnu uniju s Ugarskom?</text>
+        <answer correct="true">Pacta conventa</answer>
+        <answer correct="false">O upravljanju carstvom</answer>
+        <answer correct="false">Zlatna bula</answer>
+        <answer correct="false">Hrvatsko-ugarska nagodba</answer>
+    </question>
+
+    <question id="45">
+        <text>Koji grad se nalazi podno Kleka?</text>
+        <answer correct="true">Ogulin</answer>
+        <answer correct="false">Karlovac</answer>
+        <answer correct="false">Delnice</answer>
+        <answer correct="false">Slunj</answer>
+    </question>
+
+    <question id="46">
+        <text>Na koje dvije kneževine je Hrvatska bila podijeljena u 9. stoljeću?</text>
+        <answer correct="true">Panonska Hrvatska i Primorska Hrvatska</answer>
+        <answer correct="false">Slavonska Hrvatska i Jadranska Hrvatska</answer>
+        <answer correct="false">Bijela Hrvatska i Crvena Hrvatska</answer>
+        <answer correct="false">Zagorska Hrvatska i Dalmatinska Hrvatska</answer>
+    </question>
+
+    <question id="47">
+        <text>Koja je kratkotrajna republika nastala 1921. godine na području Istre?</text>
+        <answer correct="true">Labinska republika</answer>
+        <answer correct="false">Pazinska republika</answer>
+        <answer correct="false">Pulska republika</answer>
+        <answer correct="false">Limska republika</answer>
+    </question>
+
+    <question id="48">
+        <text>Koji je nadimak hrvatske rukometne reprezentacije?</text>
+        <answer correct="true">Kauboji</answer>
+        <answer correct="false">Vatreni</answer>
+        <answer correct="false">Barakude</answer>
+        <answer correct="false">Zmajevi</answer>
+    </question>
+
+    <question id="49">
+        <text>Koji hrvatski majstor borilačkih vještina je poznat pod nadimkom "Cro Cop" ?</text>
+        <answer correct="true">Mirko Filipović</answer>
+        <answer correct="false">Branko Cikatić</answer>
+        <answer correct="false">Mate Parlov</answer>
+        <answer correct="false">Filip Hrgović</answer>
+    </question>
+
+    <question id="50">
+        <text>Kako se zovu jezera u okolici grada Ploče?</text>
+        <answer correct="true">Baćinska jezera</answer>
+        <answer correct="false">Plitvička jezera</answer>
+        <answer correct="false">Neretvanska jezera</answer>
+        <answer correct="false">Naronska jezera</answer>
+    </question>
+
+    <question id="51">
+        <text>Koje je drugo ime za Bedekovčanska jezera</text>
+        <answer correct="true">Bajeri</answer>
+        <answer correct="false">Kebeli</answer>
+        <answer correct="false">Šoderica</answer>
+        <answer correct="false">Krapinjaki</answer>
+    </question>
+
+    <question id="52">
+        <text>U kojem gradu je rođen ban Josip Jelačić?</text>
+        <answer correct="true">Petrovaradin</answer>
+        <answer correct="false">Zagreb</answer>
+        <answer correct="false">Pečuh</answer>
+        <answer correct="false">Bečko Novo Mjesto</answer>
+    </question>
+
+    <question id="53">
+        <text>Koja je najjužnija četvrt Zagreba?</text>
+        <answer correct="true">Brezovica</answer>
+        <answer correct="false">Novi Zagreb - Zapad</answer>
+        <answer correct="false">Velika Gorica</answer>
+        <answer correct="false">Trešnjevka - Jug</answer>
+    </question>
+
+    <question id="54">
+        <text>Koja nije jedna od četiri rijeka na kojoj leži Karlovac?</text>
+        <answer correct="true">Una</answer>
+        <answer correct="false">Dobra</answer>
+        <answer correct="false">Mrežnica</answer>
+        <answer correct="false">Korana</answer>
+    </question>
+
+    <question id="55">
+        <text>Koji je hrvatski znanstvenik prvi klasificirao otiske prstiju?</text>
+        <answer correct="true">Ivan Vučetić</answer>
+        <answer correct="false">Andrija Štampar</answer>
+        <answer correct="false">Slavoljub Penkala</answer>
+        <answer correct="false">Petar Dragić</answer>
+    </question>
+
+    <question id="56">
+        <text>Tko je prvi Hrvat koji je sudjelovao u NBA Draftu?</text>
+        <answer correct="true">Krešimir Ćosić</answer>
+        <answer correct="false">Dražen Petrović</answer>
+        <answer correct="false">Toni Kukoč</answer>
+        <answer correct="false">Dino Rađa</answer>
+    </question>
+
+    <question id="57">
+        <text>Tko je prvi Hrvat koji je zaigrao u NBA-u?</text>
+        <answer correct="true">Dražen Petrović</answer>
+        <answer correct="false">Krešimir Ćosić</answer>
+        <answer correct="false">Toni Kukoč</answer>
+        <answer correct="false">Dino Rađa</answer>
+    </question>
+
+    <question id="58">
+        <text>Koji igrač je bio kapetan Hrvatske nogometne reprezentacije na Europskom prvenstvu 2016. godine?</text>
+        <answer correct="true">Darijo Srna</answer>
+        <answer correct="false">Luka Modrić</answer>
+        <answer correct="false">Danijel Subašić</answer>
+        <answer correct="false">Vedran Ćorluka</answer>
+    </question>
+
+    <question id="59">
+        <text>Koji se grad smatra najstarijim baroknim gradom u Hrvatskoj?</text>
+        <answer correct="true">Varaždin</answer>
+        <answer correct="false">Zagreb</answer>
+        <answer correct="false">Koprivnica</answer>
+        <answer correct="false">Osijek</answer>
+    </question>
+
+    <question id="60">
+        <text>Koji je hrvatski grad imao status glavnog grada u 18. stoljeću prije Zagreba?</text>
+        <answer correct="true">Varaždin</answer>
+        <answer correct="false">Bjelovar</answer>
+        <answer correct="false">Karlovac</answer>
+        <answer correct="false">Split</answer>
+    </question>
+
+    <question id="61">
+        <text>U kojem se mjestu nalazi "centar svijeta" prema staroj legendi?</text>
+        <answer correct="true">Ludbreg</answer>
+        <answer correct="false">Križevci</answer>
+        <answer correct="false">Đurđevac</answer>
+        <answer correct="false">Lepoglava</answer>
+    </question>
+
+    <question id="62">
+        <text>U kojem se mjestu nalazi poznata Gupčeva lipa, simbol seljačke bune?</text>
+        <answer correct="true">Gornja Stubica</answer>
+        <answer correct="false">Donja Stubica</answer>
+        <answer correct="false">Podsused</answer>
+        <answer correct="false">Marija Bistrica</answer>
+    </question>
+
+    <question id="63">
+        <text>U kojem je mjestu rođen Ljudevit Gaj, vođa Ilirskog pokreta?</text>
+        <answer correct="true">Krapina</answer>
+        <answer correct="false">Zagreb</answer>
+        <answer correct="false">Karlovac</answer>
+        <answer correct="false">Zaprešić</answer>
+    </question>
+
+    <question id="64">
+        <text>Koji serijal akcijskih videoigara je razvio hrvatski proizvođač videoigara Croteam?</text>
+        <answer correct="true">Serious Sam</answer>
+        <answer correct="false">Wolfenstein</answer>
+        <answer correct="false">Arma</answer>
+        <answer correct="false">Battlefield</answer>
+    </question>
+
+    <question id="65">
+        <text>Kako se zove najpoznatija tržnica u centru Zagreba?</text>
+        <answer correct="true">Dolac</answer>
+        <answer correct="false">Gradec</answer>
+        <answer correct="false">Jelačić</answer>
+        <answer correct="false">Trešnjevački plac</answer>
+    </question>
+
+</questions>
